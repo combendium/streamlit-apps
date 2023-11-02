@@ -7,7 +7,7 @@ from PIL import Image # to open image from BytesIO object
 #############################
 
 # Server api
-api_url = "http://192.168.50.24:8080"
+api_url = "https://plastic-resin-code-r7wxdlansa-as.a.run.app"
 api_route = '/predict'
 
 # Page config

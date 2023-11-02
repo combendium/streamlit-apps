@@ -3,7 +3,6 @@ import streamlit as st
 import requests
 from io import BytesIO
 
-from tensorflow.keras.applications.efficientnet_v2 import preprocess_input as efficientnetv2_preprocess_input
 #############################
 
 # Server api

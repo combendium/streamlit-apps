@@ -4,7 +4,6 @@ import requests
 from io import BytesIO 
 from PIL import Image # to open image from BytesIO object
 
-from tensorflow.keras.applications.efficientnet_v2 import preprocess_input as efficientnetv2_preprocess_input
 #############################
 
 # Server api
